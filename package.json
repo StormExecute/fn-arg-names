@@ -1,0 +1,30 @@
+{
+  "name": "fn-arg-names",
+  "version": "1.0.0",
+  "author": "cotenochek",
+  "license": "MIT",
+  "description": "Get any arguments from any function",
+  "homepage": "https://github.com/StormExecute/fn-arg-names/#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StormExecute/fn-arg-names.git"
+  },
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+	"function",
+	"fn-arg-names",
+	"fn",
+	"arg",
+	"args",
+	"arguments",
+	"arg-names",
+	"argument-names"
+  ]
+}
